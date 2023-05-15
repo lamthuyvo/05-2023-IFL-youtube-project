@@ -1,0 +1,7 @@
+bs4
+deep_translator
+jupyter
+matplotlib
+pandas
+pyvi
+requests
